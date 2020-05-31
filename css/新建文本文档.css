@@ -1,0 +1,10 @@
+.clear:after{
+	content: "";
+	display: block;
+	height: 0px;
+	clear: both;
+}
+.top{
+	width: 1200px;
+	margin: auto;
+}
